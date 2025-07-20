@@ -9,6 +9,8 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que f
 
 Além de outros recursos falados nas aulas!
 
+## [Clique Aqui](https://pedrolisboac.github.io/desafio-site-clinica-medica/) Para acessar o site que desenvolvi! 🖥
+
 ## Instruções
 1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
 2. Este site deve conter o seguinte menu de navegação:
