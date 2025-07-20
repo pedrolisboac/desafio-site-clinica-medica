@@ -20,19 +20,59 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: rgb(152, 247, 143);
     padding: 10px 20px 0px;
 }
+.menu h3 {
+   text-align: center;
+   font-weight: bold;
+   color: #033613;
+}
+.menu ul {
+   color: #033613;
+}
 .header {
-    background-color: rgb(5, 108, 108);
+    display: flex;
+    background-color: #157a34;
     min-height: 150px;
+    justify-content: center;
 }
 .content {
     background-color: white;
     min-height: 300px;
     padding: 20px;
 }
+.content h1 {
+  text-align: center;
+}
+.content h2 {
+  text-align: center;
+}
+.content p {
+  text-align: center;
+}
+.content .p-sobre {
+  text-align: left;
+}
 .footer {
-    background-color: rgb(99, 56, 240);
+    background-color: #157a34;
     min-height: 150px;
+}
+.footer p {
+    text-align: center;
+    color: white;
+}
+.footer p a {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+.content form {
+    margin-left: 41%;
+}
+.content form .botoes-formulario {
+    margin-left: 6%;
+}
+.content iframe {
+    margin-left: 29%;
 }

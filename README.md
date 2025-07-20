@@ -1,7 +1,7 @@
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que foi visto neste módulo. Os temas que deverão ser abordados são:
 - Formulários
 - Estruturação e formatação de texto
 - Mídias
@@ -69,6 +69,6 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
+Desafio está concluído!
 
 Bora pra cima!
